@@ -1,6 +1,3 @@
-#### Setting Working Directory -----------
-# setwd("D:\\R\\RCodesCNR1")
-
 #### Import library(s) -----------
 library(tidyverse)
 library(ggplot2)
